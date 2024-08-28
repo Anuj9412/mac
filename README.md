@@ -1,4 +1,4 @@
 # mac
 test on mac
 <br>
-Author - Anuj Kumar Sharma
+Author - Anuj Sharma
